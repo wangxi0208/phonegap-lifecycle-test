@@ -1,6 +1,7 @@
 function onLoad()
 {
-alert("hello!");
+    
+  
     
     
 }
