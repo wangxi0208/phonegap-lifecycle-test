@@ -1,7 +1,10 @@
+var hello ="wangxi2";
+
+
 function onLoad()
 {
 
-var hello = "wangxi";
+
     
 alert(hello);
     
