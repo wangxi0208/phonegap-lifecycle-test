@@ -11,7 +11,7 @@ function onLoad()
 
 
     
-alert(hello);
+alert(bule);
     
     
 }
